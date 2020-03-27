@@ -34,3 +34,22 @@
  * 	- Driver: SELECT * from users
  * 	- Query Builder(Knex): table('users').select('*')...
  */
+
+
+ /**
+  * Entidades (tudo o que vai ficar salvo no banco de dados):
+  * 	- ONG
+  * 	- Incident
+  *
+  */
+
+  /**
+   * Funcionalidades (coisas que a aplicação precisa fazer):
+   * 	- Login de ONG
+   * 	- Logout de ONG
+   * 	- Cadastro de ONG
+   * 	- Cadastrar novo Caso
+   * 	- Deletar novo Caso
+   * 	- Listar Casos específicos de uma ONG
+   * 	- Entrar em contato com a ONG
+   */

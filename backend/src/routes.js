@@ -8,10 +8,4 @@ routes.post('/users', (req, res) => {
 	return res.send(body)
 })
 
-routes.get('/users', (req, res) => {
-	const params = req.params
-
-	return res.send(params)
-})
-
 module.exports = routes
